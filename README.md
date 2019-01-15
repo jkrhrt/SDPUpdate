@@ -9,6 +9,8 @@ Written to automatically update a ticket/request with the following details:
 * Status
 * FCR
 
-1. Modify 'url=' and 'techkey=' with your environments details.
+## Configuration
+
+1. Modify 'url=' and 'techkey=' with your environments details
 2. Configure a custom trigger with your required conditions 
 3. Set the action executor e.g. python SDPUpdate.py $WORKORDERID
